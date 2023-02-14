@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("Hello world from B1910303");
+    printf("Hello world \nfrom B1910303 ");
     return 0;
 }
